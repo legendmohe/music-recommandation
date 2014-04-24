@@ -37,7 +37,10 @@ def try_exit():
 
 import channels_list
 
-channels = channels_list.CHANNELS["type3"]
+channels = channels_list.CHANNELS["type1"]
+channels_groupby_type = {}
+for channel in channels:
+    channels_groupby_type[channel["name"]] = channel
 cur_channel = random.choice(channels)
 
 reload(sys)
@@ -98,7 +101,12 @@ music_thread.start()
 class NextHandler(tornado.web.RequestHandler):
     def get(self):
         global stop_playing, lock, player, cur_channel, channels
-        cur_channel = random.choice(channels)
+
+        song_type = self.get_argument("type", None)
+        if song_type is None:
+            cur_channel = random.choice(channels)
+        else:
+            cur_channel = channels_groupby_type[song_type]
         if stop_playing:
             stop_playing = False
             lock.release()
@@ -127,15 +135,20 @@ class MarkHandler(tornado.web.RequestHandler):
         self.write(log_content)
 
 
+class ListHandler(tornado.web.RequestHandler):
+    def get(self):
+        global channels
+        response = "\n".join([item["name"] for item in channels])
+        self.write(response)
+
+
 application = tornado.web.Application([
     (r"/next", NextHandler),
     (r"/pause", PauseHandler),
     (r"/mark", MarkHandler),
+    (r"/list", ListHandler),
 ])
-
-
-if __name__ == "__main__":
-    application.listen(8888)
-    signal.signal(signal.SIGINT, signal_handler)
-    tornado.ioloop.PeriodicCallback(try_exit, 100).start()
-    tornado.ioloop.IOLoop.instance().start()
+application.listen(8888)
+signal.signal(signal.SIGINT, signal_handler)
+tornado.ioloop.PeriodicCallback(try_exit, 100).start()
+tornado.ioloop.IOLoop.instance().start()
