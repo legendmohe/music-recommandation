@@ -13,7 +13,7 @@ from datetime import datetime
 
 now = datetime.now()
 log_file_name = "motion_%s_%s_%s.log" % (now.year, now.month, now.day)
-output_file = open(log_file_name, "w")
+output_file = open(log_file_name, "a")
  
 def onMouseEvent(event):
     if event.Message == 512:  # not tracking mouse move
