@@ -6,1166 +6,1166 @@ CHANNELS = {
             "type1":[
                 {
                     "id":279,
-                    "name":"我是歌手",
+                    "name":u"我是歌手",
                     "i":1
                 },
                 {
                     "id":281,
-                    "name":"中国好歌曲",
+                    "name":u"中国好歌曲",
                     "i":1
                 },
                 {
                     "id":199,
-                    "name":"热歌",
+                    "name":u"热歌",
                     "i":1
                 },
                 {
                     "id":126,
-                    "name":"新歌",
+                    "name":u"新歌",
                     "i":1
                 },
                 {
                     "id":118,
-                    "name":"华语",
+                    "name":u"华语",
                     "i":1
                 },
                 {
                     "id":120,
-                    "name":"欧美",
+                    "name":u"欧美",
                     "i":1
                 },
                 {
                     "id":119,
-                    "name":"粤语",
+                    "name":u"粤语",
                     "i":1
                 },
                 {
                     "id":150,
-                    "name":"韩语",
+                    "name":u"韩语",
                     "i":1
                 },
                 {
                     "id":268,
-                    "name":"佛教音乐",
+                    "name":u"佛教音乐",
                     "i":1
                 },
                 {
                     "id":269,
-                    "name":"健身频道",
+                    "name":u"健身频道",
                     "i":1
                 },
                 {
                     "id":270,
-                    "name":"KTV必点歌",
+                    "name":u"KTV必点歌",
                     "i":1
                 },
                 {
                     "id":280,
-                    "name":"我是歌手控",
+                    "name":u"我是歌手控",
                     "i":1
                 },
                 {
                     "id":271,
-                    "name":"广场舞",
+                    "name":u"广场舞",
                     "i":1
                 },
                 {
                     "id":272,
-                    "name":"闽南语",
+                    "name":u"闽南语",
                     "i":1
                 },
                 {
                     "id":273,
-                    "name":"神曲",
+                    "name":u"神曲",
                     "i":1
                 },
                 {
                     "id":274,
-                    "name":"轻松舒缓",
+                    "name":u"轻松舒缓",
                     "i":1
                 },
                 {
                     "id":275,
-                    "name":"你的旋律",
+                    "name":u"你的旋律",
                     "i":1
                 },
                 {
                     "id":276,
-                    "name":"酒吧",
+                    "name":u"酒吧",
                     "i":1
                 },
                 {
                     "id":149,
-                    "name":"日语",
+                    "name":u"日语",
                     "i":1
                 },
                 {
                     "id":168,
-                    "name":"法语",
+                    "name":u"法语",
                     "i":1
                 },
                 {
                     "id":122,
-                    "name":"70后",
+                    "name":u"70后",
                     "i":1
                 },
                 {
                     "id":123,
-                    "name":"80后",
+                    "name":u"80后",
                     "i":1
                 },
                 {
                     "id":124,
-                    "name":"90后",
+                    "name":u"90后",
                     "i":1
                 },
                 {
                     "id":174,
-                    "name":"钢琴",
+                    "name":u"钢琴",
                     "i":1
                 },
                 {
                     "id":175,
-                    "name":"木吉他",
+                    "name":u"木吉他",
                     "i":1
                 },
                 {
                     "id":176,
-                    "name":"小提琴",
+                    "name":u"小提琴",
                     "i":1
                 },
                 {
                     "id":181,
-                    "name":"萨克斯",
+                    "name":u"萨克斯",
                     "i":1
                 },
                 {
                     "id":207,
-                    "name":"古筝",
+                    "name":u"古筝",
                     "i":1
                 },
                 {
                     "id":225,
-                    "name":"笛子",
+                    "name":u"笛子",
                     "i":1
                 },
                 {
                     "id":214,
-                    "name":"小清新",
+                    "name":u"小清新",
                     "i":1
                 },
                 {
                     "id":208,
-                    "name":"唯美歌词",
+                    "name":u"唯美歌词",
                     "i":1
                 },
                 {
                     "id":210,
-                    "name":"成名曲",
+                    "name":u"成名曲",
                     "i":1
                 },
                 {
                     "id":209,
-                    "name":"劲爆车载",
+                    "name":u"劲爆车载",
                     "i":1
                 },
                 {
                     "id":200,
-                    "name":"情歌对唱",
+                    "name":u"情歌对唱",
                     "i":1
                 },
                 {
                     "id":219,
-                    "name":"清凉一夏",
+                    "name":u"清凉一夏",
                     "i":1
                 },
                 {
                     "id":202,
-                    "name":"怀旧华语",
+                    "name":u"怀旧华语",
                     "i":1
                 },
                 {
                     "id":203,
-                    "name":"怀旧粤语",
+                    "name":u"怀旧粤语",
                     "i":1
                 },
                 {
                     "id":204,
-                    "name":"怀旧英语",
+                    "name":u"怀旧英语",
                     "i":1
                 },
                 {
                     "id":190,
-                    "name":"中国风",
+                    "name":u"中国风",
                     "i":1
                 },
                 {
                     "id":192,
-                    "name":"旅行",
+                    "name":u"旅行",
                     "i":1
                 },
                 {
                     "id":187,
-                    "name":"电影原声",
+                    "name":u"电影原声",
                     "i":1
                 },
                 {
                     "id":189,
-                    "name":"电视剧原声",
+                    "name":u"电视剧原声",
                     "i":1
                 },
                 {
                     "id":213,
-                    "name":"流行男声",
+                    "name":u"流行男声",
                     "i":1
                 },
                 {
                     "id":179,
-                    "name":"女声",
+                    "name":u"女声",
                     "i":1
                 },
                 {
                     "id":141,
-                    "name":"咖啡屋",
+                    "name":u"咖啡屋",
                     "i":1
                 },
                 {
                     "id":180,
-                    "name":"茗茶馆",
+                    "name":u"茗茶馆",
                     "i":1
                 },
                 {
                     "id":206,
-                    "name":"瑜伽",
+                    "name":u"瑜伽",
                     "i":1
                 },
                 {
                     "id":127,
-                    "name":"经典",
+                    "name":u"经典",
                     "i":1
                 },
                 {
                     "id":148,
-                    "name":"唱作人",
+                    "name":u"唱作人",
                     "i":1
                 },
                 {
                     "id":167,
-                    "name":"网络流行",
+                    "name":u"网络流行",
                     "i":1
                 },
                 {
                     "id":144,
-                    "name":"动漫",
+                    "name":u"动漫",
                     "i":1
                 },
                 {
                     "id":157,
-                    "name":"篮球",
+                    "name":u"篮球",
                     "i":1
                 },
                 {
                     "id":160,
-                    "name":"早安",
+                    "name":u"早安",
                     "i":1
                 },
                 {
                     "id":161,
-                    "name":"晚安",
+                    "name":u"晚安",
                     "i":1
                 },
                 {
                     "id":142,
-                    "name":"失眠",
+                    "name":u"失眠",
                     "i":1
                 },
                 {
                     "id":166,
-                    "name":"儿歌",
+                    "name":u"儿歌",
                     "i":1
                 },
                 {
                     "id":146,
-                    "name":"胎教",
+                    "name":u"胎教",
                     "i":1
                 },
                 {
                     "id":227,
-                    "name":"中国摇滚",
+                    "name":u"中国摇滚",
                     "i":1
                 },
                 {
                     "id":223,
-                    "name":"Hip-Hop",
+                    "name":u"Hip-Hop",
                     "i":1
                 },
                 {
                     "id":195,
-                    "name":"舞曲",
+                    "name":u"舞曲",
                     "i":1
                 },
                 {
                     "id":185,
-                    "name":"说唱",
+                    "name":u"说唱",
                     "i":1
                 },
                 {
                     "id":186,
-                    "name":"英伦",
+                    "name":u"英伦",
                     "i":1
                 },
                 {
                     "id":215,
-                    "name":"DJ热碟",
+                    "name":u"DJ热碟",
                     "i":1
                 },
                 {
                     "id":183,
-                    "name":"蓝调",
+                    "name":u"蓝调",
                     "i":1
                 },
                 {
                     "id":184,
-                    "name":"Bossa Nova",
+                    "name":u"Bossa Nova",
                     "i":1
                 },
                 {
                     "id":173,
-                    "name":"R&B",
+                    "name":u"R&B",
                     "i":1
                 },
                 {
                     "id":130,
-                    "name":"流行摇滚",
+                    "name":u"流行摇滚",
                     "i":1
                 },
                 {
                     "id":132,
-                    "name":"爵士",
+                    "name":u"爵士",
                     "i":1
                 },
                 {
                     "id":133,
-                    "name":"乡村",
+                    "name":u"乡村",
                     "i":1
                 },
                 {
                     "id":129,
-                    "name":"轻音乐",
+                    "name":u"轻音乐",
                     "i":1
                 },
                 {
                     "id":134,
-                    "name":"电子",
+                    "name":u"电子",
                     "i":1
                 },
                 {
                     "id":135,
-                    "name":"慢摇",
+                    "name":u"慢摇",
                     "i":1
                 },
                 {
                     "id":131,
-                    "name":"古典",
+                    "name":u"古典",
                     "i":1
                 }
             ],
             "type2":[
                 {
                     "id":4558,
-                    "name":"周杰伦",
+                    "name":u"周杰伦",
                     "i":2
                 },
                 {
                     "id":224,
-                    "name":"张韶涵",
+                    "name":u"张韶涵",
                     "i":2
                 },
                 {
                     "id":7221,
-                    "name":"许嵩",
+                    "name":u"许嵩",
                     "i":2
                 },
                 {
                     "id":13578,
-                    "name":"BY2",
+                    "name":u"BY2",
                     "i":2
                 },
                 {
                     "id":143,
-                    "name":"陈奕迅",
+                    "name":u"陈奕迅",
                     "i":2
                 },
                 {
                     "id":44,
-                    "name":"梁静茹",
+                    "name":u"梁静茹",
                     "i":2
                 },
                 {
                     "id":265,
-                    "name":"王力宏",
+                    "name":u"王力宏",
                     "i":2
                 },
                 {
                     "id":40089,
-                    "name":"EXO-M",
+                    "name":u"EXO-M",
                     "i":2
                 },
                 {
                     "id":16257,
-                    "name":"Justin Bieber",
+                    "name":u"Justin Bieber",
                     "i":2
                 },
                 {
                     "id":11606,
-                    "name":"林宥嘉",
+                    "name":u"林宥嘉",
                     "i":2
                 },
                 {
                     "id":21414,
-                    "name":"Bruno Mars",
+                    "name":u"Bruno Mars",
                     "i":2
                 },
                 {
                     "id":6499,
-                    "name":"张杰",
+                    "name":u"张杰",
                     "i":2
                 },
                 {
                     "id":109,
-                    "name":"孙燕姿",
+                    "name":u"孙燕姿",
                     "i":2
                 },
                 {
                     "id":6966,
-                    "name":"Rihanna",
+                    "name":u"Rihanna",
                     "i":2
                 },
                 {
                     "id":4417,
-                    "name":"Avril Lavigne",
+                    "name":u"Avril Lavigne",
                     "i":2
                 },
                 {
                     "id":74,
-                    "name":"五月天",
+                    "name":u"五月天",
                     "i":2
                 },
                 {
                     "id":4712,
-                    "name":"Michael Jackson",
+                    "name":u"Michael Jackson",
                     "i":2
                 },
                 {
                     "id":163,
-                    "name":"刘德华",
+                    "name":u"刘德华",
                     "i":2
                 },
                 {
                     "id":4651,
-                    "name":"罗志祥",
+                    "name":u"罗志祥",
                     "i":2
                 },
                 {
                     "id":11809,
-                    "name":"少女时代",
+                    "name":u"少女时代",
                     "i":2
                 },
                 {
                     "id":10,
-                    "name":"陈绮贞",
+                    "name":u"陈绮贞",
                     "i":2
                 },
                 {
                     "id":12578,
-                    "name":"Adele",
+                    "name":u"Adele",
                     "i":2
                 },
                 {
                     "id":4740,
-                    "name":"黄小琥",
+                    "name":u"黄小琥",
                     "i":2
                 },
                 {
                     "id":4286,
-                    "name":"林俊杰",
+                    "name":u"林俊杰",
                     "i":2
                 },
                 {
                     "id":87,
-                    "name":"张国荣",
+                    "name":u"张国荣",
                     "i":2
                 },
                 {
                     "id":29,
-                    "name":"黄耀明",
+                    "name":u"黄耀明",
                     "i":2
                 },
                 {
                     "id":11921,
-                    "name":"Taylor Swift",
+                    "name":u"Taylor Swift",
                     "i":2
                 },
                 {
                     "id":24833,
-                    "name":"胡夏",
+                    "name":u"胡夏",
                     "i":2
                 },
                 {
                     "id":264,
-                    "name":"王菲",
+                    "name":u"王菲",
                     "i":2
                 },
                 {
                     "id":112,
-                    "name":"蔡健雅",
+                    "name":u"蔡健雅",
                     "i":2
                 },
                 {
                     "id":13769,
-                    "name":"Lady GaGa",
+                    "name":u"Lady GaGa",
                     "i":2
                 },
                 {
                     "id":141,
-                    "name":"张惠妹",
+                    "name":u"张惠妹",
                     "i":2
                 },
                 {
                     "id":4404,
-                    "name":"WestLife",
+                    "name":u"WestLife",
                     "i":2
                 },
                 {
                     "id":6494,
-                    "name":"Whitney Houston",
+                    "name":u"Whitney Houston",
                     "i":2
                 },
                 {
                     "id":5161,
-                    "name":"久石让",
+                    "name":u"久石让",
                     "i":2
                 },
                 {
                     "id":5675,
-                    "name":"Super Junior",
+                    "name":u"Super Junior",
                     "i":2
                 },
                 {
                     "id":4607,
-                    "name":"张靓颖",
+                    "name":u"张靓颖",
                     "i":2
                 },
                 {
                     "id":218,
-                    "name":"S.H.E",
+                    "name":u"S.H.E",
                     "i":2
                 },
                 {
                     "id":54,
-                    "name":"莫文蔚",
+                    "name":u"莫文蔚",
                     "i":2
                 },
                 {
                     "id":7080,
-                    "name":"The Cranberries",
+                    "name":u"The Cranberries",
                     "i":2
                 },
                 {
                     "id":4880,
-                    "name":"Eminem",
+                    "name":u"Eminem",
                     "i":2
                 },
                 {
                     "id":4660,
-                    "name":"Mariah Carey",
+                    "name":u"Mariah Carey",
                     "i":2
                 },
                 {
                     "id":13203,
-                    "name":"萧敬腾",
+                    "name":u"萧敬腾",
                     "i":2
                 },
                 {
                     "id":118,
-                    "name":"容祖儿",
+                    "name":u"容祖儿",
                     "i":2
                 },
                 {
                     "id":126,
-                    "name":"小野丽莎",
+                    "name":u"小野丽莎",
                     "i":2
                 },
                 {
                     "id":5470,
-                    "name":"白智英",
+                    "name":u"白智英",
                     "i":2
                 },
                 {
                     "id":11424,
-                    "name":"AKB48",
+                    "name":u"AKB48",
                     "i":2
                 },
                 {
                     "id":4620,
-                    "name":"郑秀文",
+                    "name":u"郑秀文",
                     "i":2
                 },
                 {
                     "id":101,
-                    "name":"陶喆",
+                    "name":u"陶喆",
                     "i":2
                 },
                 {
                     "id":113,
-                    "name":"Twins",
+                    "name":u"Twins",
                     "i":2
                 },
                 {
                     "id":51,
-                    "name":"刘若英",
+                    "name":u"刘若英",
                     "i":2
                 },
                 {
                     "id":3347,
-                    "name":"古巨基",
+                    "name":u"古巨基",
                     "i":2
                 },
                 {
                     "id":146,
-                    "name":"谢霆锋",
+                    "name":u"谢霆锋",
                     "i":2
                 },
                 {
                     "id":171,
-                    "name":"杨千嬅",
+                    "name":u"杨千嬅",
                     "i":2
                 },
                 {
                     "id":5194,
-                    "name":"MC梦",
+                    "name":u"MC梦",
                     "i":2
                 },
                 {
                     "id":5437,
-                    "name":"岛谷瞳",
+                    "name":u"岛谷瞳",
                     "i":2
                 },
                 {
                     "id":9426,
-                    "name":"X Japan",
+                    "name":u"X Japan",
                     "i":2
                 },
                 {
                     "id":2924,
-                    "name":"Jay-Z",
+                    "name":u"Jay-Z",
                     "i":2
                 },
                 {
                     "id":4615,
-                    "name":"李宇春",
+                    "name":u"李宇春",
                     "i":2
                 },
                 {
                     "id":174,
-                    "name":"张学友",
+                    "name":u"张学友",
                     "i":2
                 },
                 {
                     "id":4365,
-                    "name":"周传雄",
+                    "name":u"周传雄",
                     "i":2
                 },
                 {
                     "id":159,
-                    "name":"胡彦斌",
+                    "name":u"胡彦斌",
                     "i":2
                 },
                 {
                     "id":4411,
-                    "name":"王筝",
+                    "name":u"王筝",
                     "i":2
                 },
                 {
                     "id":11979,
-                    "name":"丁当",
+                    "name":u"丁当",
                     "i":2
                 },
                 {
                     "id":5398,
-                    "name":"倖田來未",
+                    "name":u"倖田來未",
                     "i":2
                 },
                 {
                     "id":30873,
-                    "name":"love solfege",
+                    "name":u"love solfege",
                     "i":2
                 },
                 {
                     "id":1496,
-                    "name":"Green Day",
+                    "name":u"Green Day",
                     "i":2
                 },
                 {
                     "id":5302,
-                    "name":"Muse",
+                    "name":u"Muse",
                     "i":2
                 },
                 {
                     "id":230,
-                    "name":"迪克牛仔",
+                    "name":u"迪克牛仔",
                     "i":2
                 },
                 {
                     "id":219,
-                    "name":"张敬轩",
+                    "name":u"张敬轩",
                     "i":2
                 },
                 {
                     "id":4359,
-                    "name":"潘玮柏",
+                    "name":u"潘玮柏",
                     "i":2
                 },
                 {
                     "id":6028,
-                    "name":"A-Lin",
+                    "name":u"A-Lin",
                     "i":2
                 },
                 {
                     "id":173,
-                    "name":"陈慧琳",
+                    "name":u"陈慧琳",
                     "i":2
                 },
                 {
                     "id":6130,
-                    "name":"凤飞飞",
+                    "name":u"凤飞飞",
                     "i":2
                 },
                 {
                     "id":4605,
-                    "name":"弦子",
+                    "name":u"弦子",
                     "i":2
                 },
                 {
                     "id":5422,
-                    "name":"椎名林檎",
+                    "name":u"椎名林檎",
                     "i":2
                 },
                 {
                     "id":5087,
-                    "name":"宇多田光",
+                    "name":u"宇多田光",
                     "i":2
                 },
                 {
                     "id":965,
-                    "name":"David Guetta",
+                    "name":u"David Guetta",
                     "i":2
                 },
                 {
                     "id":89,
-                    "name":"张震岳",
+                    "name":u"张震岳",
                     "i":2
                 },
                 {
                     "id":6415,
-                    "name":"Evanescence",
+                    "name":u"Evanescence",
                     "i":2
                 },
                 {
                     "id":6621,
-                    "name":"曹格",
+                    "name":u"曹格",
                     "i":2
                 },
                 {
                     "id":4518,
-                    "name":"黑豹",
+                    "name":u"黑豹",
                     "i":2
                 },
                 {
                     "id":75,
-                    "name":"伍佰",
+                    "name":u"伍佰",
                     "i":2
                 },
                 {
                     "id":5941,
-                    "name":"小旺福",
+                    "name":u"小旺福",
                     "i":2
                 },
                 {
                     "id":5195,
-                    "name":"平井坚",
+                    "name":u"平井坚",
                     "i":2
                 },
                 {
                     "id":15370,
-                    "name":"沫小薰",
+                    "name":u"沫小薰",
                     "i":2
                 },
                 {
                     "id":5705,
-                    "name":"岚",
+                    "name":u"岚",
                     "i":2
                 },
                 {
                     "id":11304,
-                    "name":"Guns N' Roses",
+                    "name":u"Guns N' Roses",
                     "i":2
                 },
                 {
                     "id":1066,
-                    "name":"方大同",
+                    "name":u"方大同",
                     "i":2
                 },
                 {
                     "id":8440,
-                    "name":"Florence + the Machine",
+                    "name":u"Florence + the Machine",
                     "i":2
                 },
                 {
                     "id":11593,
-                    "name":"Enrique Iglesias",
+                    "name":u"Enrique Iglesias",
                     "i":2
                 },
                 {
                     "id":4604,
-                    "name":"汪峰",
+                    "name":u"汪峰",
                     "i":2
                 },
                 {
                     "id":11626,
-                    "name":"郭静",
+                    "name":u"郭静",
                     "i":2
                 },
                 {
                     "id":5558,
-                    "name":"张悬",
+                    "name":u"张悬",
                     "i":2
                 },
                 {
                     "id":15961,
-                    "name":"2NE1",
+                    "name":u"2NE1",
                     "i":2
                 },
                 {
                     "id":5438,
-                    "name":"仓木麻衣",
+                    "name":u"仓木麻衣",
                     "i":2
                 },
                 {
                     "id":14207,
-                    "name":"IU",
+                    "name":u"IU",
                     "i":2
                 },
                 {
                     "id":4946,
-                    "name":"The Eagles",
+                    "name":u"The Eagles",
                     "i":2
                 },
                 {
                     "id":1577,
-                    "name":"杨幂",
+                    "name":u"杨幂",
                     "i":2
                 },
                 {
                     "id":4736,
-                    "name":"Akon",
+                    "name":u"Akon",
                     "i":2
                 },
                 {
                     "id":4709,
-                    "name":"Céline Dion",
+                    "name":u"Céline Dion",
                     "i":2
                 },
                 {
                     "id":167,
-                    "name":"张信哲",
+                    "name":u"张信哲",
                     "i":2
                 },
                 {
                     "id":4351,
-                    "name":"范玮琪",
+                    "name":u"范玮琪",
                     "i":2
                 },
                 {
                     "id":4367,
-                    "name":"王心凌",
+                    "name":u"王心凌",
                     "i":2
                 },
                 {
                     "id":5613,
-                    "name":"H.O.T",
+                    "name":u"H.O.T",
                     "i":2
                 },
                 {
                     "id":13959,
-                    "name":"2PM",
+                    "name":u"2PM",
                     "i":2
                 },
                 {
                     "id":165,
-                    "name":"萧亚轩",
+                    "name":u"萧亚轩",
                     "i":2
                 },
                 {
                     "id":5684,
-                    "name":"w-inds.",
+                    "name":u"w-inds.",
                     "i":2
                 },
                 {
                     "id":12492,
-                    "name":"王若琳",
+                    "name":u"王若琳",
                     "i":2
                 },
                 {
                     "id":290,
-                    "name":"Coldplay",
+                    "name":u"Coldplay",
                     "i":2
                 },
                 {
                     "id":4681,
-                    "name":"James Blunt",
+                    "name":u"James Blunt",
                     "i":2
                 },
                 {
                     "id":4718,
-                    "name":"P!nk",
+                    "name":u"P!nk",
                     "i":2
                 },
                 {
                     "id":178,
-                    "name":"吴克羣",
+                    "name":u"吴克羣",
                     "i":2
                 },
                 {
                     "id":4658,
-                    "name":"杨丞琳",
+                    "name":u"杨丞琳",
                     "i":2
                 },
                 {
                     "id":4422,
-                    "name":"牛奶咖啡",
+                    "name":u"牛奶咖啡",
                     "i":2
                 },
                 {
                     "id":4983,
-                    "name":"Maroon 5",
+                    "name":u"Maroon 5",
                     "i":2
                 },
                 {
                     "id":12855,
-                    "name":"Lady Antebellum",
+                    "name":u"Lady Antebellum",
                     "i":2
                 },
                 {
                     "id":13841,
-                    "name":"SHINee",
+                    "name":u"SHINee",
                     "i":2
                 },
                 {
                     "id":5595,
-                    "name":"小事乐团",
+                    "name":u"小事乐团",
                     "i":2
                 },
                 {
                     "id":4762,
-                    "name":"Usher",
+                    "name":u"Usher",
                     "i":2
                 },
                 {
                     "id":13948,
-                    "name":"G.E.M. 邓紫棋",
+                    "name":u"G.E.M. 邓紫棋",
                     "i":2
                 },
                 {
                     "id":4586,
-                    "name":"Black Eyed Peas",
+                    "name":u"Black Eyed Peas",
                     "i":2
                 },
                 {
                     "id":227,
-                    "name":"蔡依林",
+                    "name":u"蔡依林",
                     "i":2
                 },
                 {
                     "id":2923,
-                    "name":"Linkin Park",
+                    "name":u"Linkin Park",
                     "i":2
                 },
                 {
                     "id":4708,
-                    "name":"Britney Spears",
+                    "name":u"Britney Spears",
                     "i":2
                 },
                 {
                     "id":4716,
-                    "name":"Madonna",
+                    "name":u"Madonna",
                     "i":2
                 },
                 {
                     "id":8394,
-                    "name":"卢广仲",
+                    "name":u"卢广仲",
                     "i":2
                 },
                 {
                     "id":4161,
-                    "name":"Beyoncé",
+                    "name":u"Beyoncé",
                     "i":2
                 },
                 {
                     "id":11760,
-                    "name":"Sara Bareilles",
+                    "name":u"Sara Bareilles",
                     "i":2
                 },
                 {
                     "id":11733,
-                    "name":"BigBang",
+                    "name":u"BigBang",
                     "i":2
                 },
                 {
                     "id":4800,
-                    "name":"滨崎步",
+                    "name":u"滨崎步",
                     "i":2
                 },
                 {
                     "id":4915,
-                    "name":"东方神起",
+                    "name":u"东方神起",
                     "i":2
                 },
                 {
                     "id":5484,
-                    "name":"蔡妍",
+                    "name":u"蔡妍",
                     "i":2
                 },
                 {
                     "id":4435,
-                    "name":"BoA",
+                    "name":u"BoA",
                     "i":2
                 },
                 {
                     "id":4706,
-                    "name":"Rain",
+                    "name":u"Rain",
                     "i":2
                 },
                 {
                     "id":5829,
-                    "name":"凤凰传奇",
+                    "name":u"凤凰传奇",
                     "i":2
                 },
                 {
                     "id":13157,
-                    "name":"Katy Perry",
+                    "name":u"Katy Perry",
                     "i":2
                 },
                 {
                     "id":6033,
-                    "name":"吴雨霏",
+                    "name":u"吴雨霏",
                     "i":2
                 },
                 {
                     "id":11761,
-                    "name":"筷子兄弟",
+                    "name":u"筷子兄弟",
                     "i":2
                 },
                 {
                     "id":5924,
-                    "name":"苏打绿",
+                    "name":u"苏打绿",
                     "i":2
                 },
                 {
                     "id":1059,
-                    "name":"何晟铭",
+                    "name":u"何晟铭",
                     "i":2
                 },
                 {
                     "id":2,
-                    "name":"BEYOND",
+                    "name":u"BEYOND",
                     "i":2
                 },
                 {
                     "id":5371,
-                    "name":"SARA（韩国）",
+                    "name":u"SARA（韩国）",
                     "i":2
                 },
                 {
                     "id":7298,
-                    "name":"陈瑞",
+                    "name":u"陈瑞",
                     "i":2
                 },
                 {
                     "id":4713,
-                    "name":"邓丽君",
+                    "name":u"邓丽君",
                     "i":2
                 },
                 {
                     "id":4427,
-                    "name":"信乐团",
+                    "name":u"信乐团",
                     "i":2
                 },
                 {
                     "id":139,
-                    "name":"王杰",
+                    "name":u"王杰",
                     "i":2
                 },
                 {
                     "id":62,
-                    "name":"任贤齐",
+                    "name":u"任贤齐",
                     "i":2
                 }
             ],
             "type3":[
                 {
                     "id":259,
-                    "name":"回忆",
+                    "name":u"回忆",
                     "i":3
                 },
                 {
                     "id":136,
-                    "name":"伤感",
+                    "name":u"伤感",
                     "i":3
                 },
                 {
                     "id":137,
-                    "name":"寂寞",
+                    "name":u"寂寞",
                     "i":3
                 },
                 {
                     "id":138,
-                    "name":"甜蜜",
+                    "name":u"甜蜜",
                     "i":3
                 },
                 {
                     "id":140,
-                    "name":"快乐",
+                    "name":u"快乐",
                     "i":3
                 },
                 {
                     "id":139,
-                    "name":"励志",
+                    "name":u"励志",
                     "i":3
                 },
                 {
                     "id":194,
-                    "name":"激情",
+                    "name":u"激情",
                     "i":3
                 },
                 {
                     "id":211,
-                    "name":"安静",
+                    "name":u"安静",
                     "i":3
                 },
                 {
                     "id":212,
-                    "name":"想哭",
+                    "name":u"想哭",
                     "i":3
                 },
                 {
                     "id":217,
-                    "name":"疗伤",
+                    "name":u"疗伤",
                     "i":3
                 },
                 {
                     "id":224,
-                    "name":"思念",
+                    "name":u"思念",
                     "i":3
                 }
             ]
